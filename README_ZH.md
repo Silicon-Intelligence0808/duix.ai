@@ -9,7 +9,7 @@
 
 ## 支持 Support
 加入我们的微信或 Discord 社区以获得支持和讨论。关注Twitter，观看基于DUIX开源能力制作的最新数字人视频。<br>
-💬 [加入 WeChat (微信)](https://github.com/GuijiAI/duix.ai/blob/main/res/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)<br>
+💬 [加入 WeChat (微信)](https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)<br>
 😄 [加入 Discord](https://discord.gg/8jh28PVsMU)<br>
 ✨ [关注 Twitter](https://twitter.com/HuapengSima)<br><br> 
 
@@ -42,20 +42,20 @@ ios参考 [简体中文](./duix-ios/GJLocalDigitalDemo/GJLocalDigitalSDK.md)  <b
 我们提供了一些数字人模型，可供下载和使用。我们将不定期更新本地模型包，以便您可以下载和使用最新的模型。以下是当前可用的本地模型包列表：
 
 #### 男性
-|  <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E8%89%BE%E7%91%9E%E5%85%8B.jpg" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E5%AD%90%E8%BD%A9.png" width="200">| <img src="https://github.com/GuijiAI/duix.ai/raw/main/res/%E7%94%B7.jpg" width="200">|
+|  <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E8%89%BE%E7%91%9E%E5%85%8B.jpg" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E5%AD%90%E8%BD%A9.png" width="200">| <img src="https://github.com/Silicon-Intelligence0808/duix.ai/raw/main/res/%E7%94%B7.jpg" width="200">|
 |:-------:|:-------:|:-------:|
 | **艾瑞克** [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193748558/airuike_20240409.zip) | **子轩** [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194036608/zixuan_20240411v2.zip) | **明轩** [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194633518/mingxuan_20240624.zip) |
 
 #### 女性
-| <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E8%8B%8F%E8%8F%B2.jpg" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E6%85%95%E5%AE%B9%E6%99%93.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E5%86%B7%E7%84%B1.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/Amelia.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E8%B5%B5%E9%9B%85.png" width="200"> |
+| <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E8%8B%8F%E8%8F%B2.jpg" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E6%85%95%E5%AE%B9%E6%99%93.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E5%86%B7%E7%84%B1.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/Amelia.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E8%B5%B5%E9%9B%85.png" width="200"> |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 | **苏菲** [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193425133/sufei_20240409.zip) | **慕容晓** [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193516102/murongxiao_20240410.zip) | **冷焱** [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193451931/lengyan_20240407.zip) | **Amelia** [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193625986/amelia_20240411.zip) | **赵雅 [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194234727/zhaoya_20240411.zip)** |
 
-| <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E5%BF%86%E7%91%B6.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E5%BF%83%E5%A6%8D.jpg" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E6%99%93%E8%90%B1.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E6%80%9D%E7%91%B6.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E8%AF%97%E9%9B%85.png" width="200"> |
+| <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E5%BF%86%E7%91%B6.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E5%BF%83%E5%A6%8D.jpg" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E6%99%93%E8%90%B1.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E6%80%9D%E7%91%B6.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E8%AF%97%E9%9B%85.png" width="200"> |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 | **忆瑶 [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194263441/yiyao_20240418.zip)** | **心妍 [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194373660/xinyan_20240411.zip)** | **晓萱 [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194313414/xiaoxuan_20240418.zip)** | **思瑶 [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194450521/siyao_20240418.zip)** | **诗雅 [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194516880/shiya_20240409.zip)** |
 
-| <img src="https://github.com/GuijiAI/duix.ai/raw/main/res/%E5%A5%B3.jpg" width="200"> 
+| <img src="https://github.com/Silicon-Intelligence0808/duix.ai/raw/main/res/%E5%A5%B3.jpg" width="200"> 
 |:-------:|
 | **知心姐姐 [下载](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194007931/bendi1_0329.zip)** |
 
@@ -63,12 +63,12 @@ ios参考 [简体中文](./duix-ios/GJLocalDigitalDemo/GJLocalDigitalSDK.md)  <b
 
 ### 商业案例展示 Business case presentation
 https://apps.apple.com/us/app/duix-your-ai-companion/id6451088879
-![image](https://github.com/GuijiAI/duix.ai/blob/main/res/chatgirl.png)<br><br>
+![image](https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/chatgirl.png)<br><br>
 
 ### 常见问题解答
 #### 1.免费形象模型是否可以商用？可以支持数字人定制吗？是基于照片还是视频？<br>
 答：免费提供的形象模型不可商用！如有需要可以支持数字人定制，我们是基于视频进行数字人定制。您可以定制专属的数字人用于SDK中。但定制的数字人属于付费服务，您可以通过微信扫码与我们联系。<br>
-<img src="https://github.com/GuijiAI/duix.ai/blob/main/res/ssx.png" width="200">
+<img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/ssx.png" width="200">
 
 #### 2.如何定制形象？<br>
 答：定制硅基数字人需要拍摄一段 3-5 分钟的真人出镜口播视频，具体出镜姿势、口播内容，可以根据最终的真实使用场景来确定。比如用来制作法律咨询相关视频，即可选择正装出镜，口播法律相关内容，这样整体情景比较一致。 <br>
