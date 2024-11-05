@@ -1,0 +1,21 @@
+//
+//  GJLocalDigitalSDK.pch
+//  GJLocalDigitalSDK
+//
+//  Created by guiji on 2023/12/26.
+//
+
+#ifndef GJLocalDigitalSDK_pch
+#define GJLocalDigitalSDK_pch
+#ifdef __OBJC__
+     #import "GJLGlobalFunc.h"
+
+#endif
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+
+
+
+#endif /* GJLocalDigitalSDK_pch */
