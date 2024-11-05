@@ -119,5 +119,3 @@ maoliyan@guiji.ai
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=GuijiAI/duix.ai&type=Date)](https://star-history.com/#GuijiAI/duix.ai&Date)
-# duix.ai
-# duix.ai
