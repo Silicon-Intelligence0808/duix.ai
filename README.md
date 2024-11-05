@@ -11,7 +11,7 @@ Welcome to the Duix App. Feel free to download it and experience the advanced di
 
 ## Support
 Join our wechat or Discord community for support and discussions. Follow Twitter,to watch the latest digital human videos created based on the open-source capabilities of DUIX.<br>
-💬 [Join our WeChat (微信)](https://github.com/GuijiAI/duix.ai/blob/main/res/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)<br>
+💬 [Join our WeChat (微信)](https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)<br>
 😄 [Join our Discord](https://discord.gg/8jh28PVsMU)<br>
 ✨ [Follow us on Twitter](https://twitter.com/HuapengSima)<br><br> 
 
@@ -47,20 +47,20 @@ This document provides a detailed description of the integration process for dev
 ## Download Digital Human Local Model
 We offer a selection of digital human models for download and use. We will update the local model packages from time to time so that you can download and utilize the latest models. Below is the list of currently available local model packages:
 #### male
-|  <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E8%89%BE%E7%91%9E%E5%85%8B.jpg" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E5%AD%90%E8%BD%A9.png" width="200">| <img src="https://github.com/GuijiAI/duix.ai/raw/main/res/%E7%94%B7.jpg" width="200">|
+|  <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E8%89%BE%E7%91%9E%E5%85%8B.jpg" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E5%AD%90%E8%BD%A9.png" width="200">| <img src="https://github.com/Silicon-Intelligence0808/duix.ai/raw/main/res/%E7%94%B7.jpg" width="200">|
 |:-------:|:-------:|:-------:|
 | **Eric**<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193748558/airuike_20240409.zip) | **Zi Xuan**<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194036608/zixuan_20240411v2.zip) | **Ming Xuan**<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194633518/mingxuan_20240624.zip) |
 
 #### female
-| <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E8%8B%8F%E8%8F%B2.jpg" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E6%85%95%E5%AE%B9%E6%99%93.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E5%86%B7%E7%84%B1.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/Amelia.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E8%B5%B5%E9%9B%85.png" width="200"> |
+| <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E8%8B%8F%E8%8F%B2.jpg" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E6%85%95%E5%AE%B9%E6%99%93.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E5%86%B7%E7%84%B1.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/Amelia.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E8%B5%B5%E9%9B%85.png" width="200"> |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 | **Sophie**<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193425133/sufei_20240409.zip) | **Mu Rong Xiao**<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193516102/murongxiao_20240410.zip) | **Cold Flame**<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193451931/lengyan_20240407.zip) | **Amelia**<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719193625986/amelia_20240411.zip) | **Zhao Ya<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194234727/zhaoya_20240411.zip)** |
 
-| <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E5%BF%86%E7%91%B6.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E5%BF%83%E5%A6%8D.jpg" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E6%99%93%E8%90%B1.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E6%80%9D%E7%91%B6.png" width="200"> | <img src="https://github.com/GuijiAI/duix.ai/blob/main/res/%E8%AF%97%E9%9B%85.png" width="200"> |
+| <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E5%BF%86%E7%91%B6.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E5%BF%83%E5%A6%8D.jpg" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E6%99%93%E8%90%B1.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E6%80%9D%E7%91%B6.png" width="200"> | <img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/%E8%AF%97%E9%9B%85.png" width="200"> |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 | **Yi Yao<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194263441/yiyao_20240418.zip)** | **Xin Yan<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194373660/xinyan_20240411.zip)** | **Xiao Xuan<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194313414/xiaoxuan_20240418.zip)** | **Si Yao<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194450521/siyao_20240418.zip)** | **Shi Ya<br>[Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194516880/shiya_20240409.zip)** |
 
-| <img src="https://github.com/GuijiAI/duix.ai/raw/main/res/%E5%A5%B3.jpg" width="200"> 
+| <img src="https://github.com/Silicon-Intelligence0808/duix.ai/raw/main/res/%E5%A5%B3.jpg" width="200"> 
 |:-------:|
 | **Dear Sister<br> [Download](https://digital-public.obs.cn-east-3.myhuaweicloud.com/duix/digital/model/1719194007931/bendi1_0329.zip)** |
 
@@ -68,12 +68,12 @@ Please download the model files according to your needs. We recommend that you c
 
 ## Business case presentation
 https://apps.apple.com/us/app/duix-your-ai-companion/id6451088879
-![image](https://github.com/GuijiAI/duix.ai/blob/main/res/chatgirl.png)<br><br>
+![image](https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/chatgirl.png)<br><br>
 
 ## Frequently Asked Questions
 #### 1. Are free avatar models available for commercial use? Do they support digital human customization? Are they based on photos or videos?<br>
 Answer: The free avatar models are not available for commercial use! If needed, we can support digital human customization. Our digital human customization is based on videos. You can customize a unique digital human for use in the SDK. However, the customized digital human service is a paid service. You can contact us by scanning the QR code on WeChat.<br>
-<img src="https://github.com/GuijiAI/duix.ai/blob/main/res/ssx.png" width="200">
+<img src="https://github.com/Silicon-Intelligence0808/duix.ai/blob/main/res/ssx.png" width="200">
 
 #### 2. How to customize a digital avatar?<br>
 Answer: To customize a silicon-based digital human, you need to shoot a 3-5 minute video featuring a real person speaking directly to the camera. The specific posture and content of the speech can be determined according to the actual usage scenario. For example, if the video is for legal consultation purposes, you can choose to appear in formal attire and speak about legal-related content, ensuring consistency with the overall context. <br>
